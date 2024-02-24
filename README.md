@@ -9,7 +9,7 @@ Node Farm is a simple project aimed at learning Node.js fundamentals. It's a bas
 1. Clone the repository:
    ```bash
    git clone https://github.com/noufu07/Node-Farm.git
-  ```
+   ```
 2. Install dependencies:
    ```bash
    npm install
